@@ -1,1 +1,2 @@
 # Deep-Semantic-Analysis-Leveraging-Neural-Networks-for-Text-Classification
+Engineered a deep learning system to automate movie review sentiment analysis, mapping raw text to high-dimensional semantic spaces. Developed a dual-stage pipeline featuring CBOW-based word embeddings and 1D-Convolutional layers to extract hierarchical textual features. Optimized model performance using global max-pooling and dropout, resulting in a robust classifier capable of 82% accuracy on unseen IMDb data.
